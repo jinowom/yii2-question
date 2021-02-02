@@ -1,0 +1,30 @@
+{
+    "name": "jinowom/yii2-question",
+    "description": "Xwom-Yii2的question扩展",
+    "support": {
+        "issues": "https://github.com/jinowom/yii2-question/issues",
+        "source": "https://github.com/jinowom/yii2-question"
+    },
+    "type": "yii2-extension",
+    "keywords": ["yii2","question","Xwom"],
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jinowom",
+            "email": "chareler@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.14",
+        "yiisoft/yii2-bootstrap": "~2.0.0"
+    },
+    "require-dev": {
+    
+    },
+    "autoload": {
+        "psr-4": {
+            "jinowom\\question\\": ""
+        }
+    }
+}
